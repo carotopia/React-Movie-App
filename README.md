@@ -1,4 +1,4 @@
 # React-Movie-App
 Movie Day!
 
-A super simple React App, for looking for movies, shows movie image and the name it was premiered
+A super simple React App, for searching for movies, shows movie image and the year it was premiered
